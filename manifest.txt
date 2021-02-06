@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: roshsha
+Class-Path: biuoop-1.4.jar
+Main-Class: Ass7Game
+

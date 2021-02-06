@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spaceInvaders:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spaceInvaders_jar</output-path>
+    <root id="archive" name="spaceInvaders.jar">
+      <element id="module-output" name="spaceInvaders" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/biuoop-1.4.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$USER_HOME$/Desktop/כל החומר/סמסטר ב/OOP/קבצי בדיקה" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/כל החומר/סמסטר ב/OOP/גאווה/biuoop-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
