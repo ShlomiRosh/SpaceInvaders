@@ -1,2 +1,2 @@
 3
-shlomiV,14500;ggg,14400;shalom,13500;
+shlomiV,14500;ggg,14400;t,14000;
