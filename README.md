@@ -5,5 +5,5 @@ Space Invaders game
 ![](git/1.gif)
 ------------------------
 ### **Levels:**
-![](git/1.gif)
+![](git/2.gif)
 ------------------------
